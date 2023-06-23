@@ -11,7 +11,9 @@
   },
   "dependencies": {
     "@types/socketcluster-client": "^16.0.0",
+    "bootstrap": "^5.3.0",
     "react": "^18.2.0",
+    "react-bootstrap": "^2.7.4",
     "react-dom": "^18.2.0",
     "socketcluster-client": "^17.1.1"
   },
